@@ -9,7 +9,7 @@ This project is aimed at understanding the demographics and customer segments co
 # Analysis
 Data cleaning : removed blanks, nulls and duplicate rows
 
-Data manipulation : Grouped data, Created conditional columns
+Data manipulation : Grouped the data, Created conditional columns
 
 # Insights from analysis
 -The number of customers (7,963) who stayed to continue banking with Fell bank was higher than churned customers (2,037).
@@ -20,7 +20,7 @@ Data manipulation : Grouped data, Created conditional columns
 
 -Also customers who have been banking with Fell for less than a year have the highest churn rate of 23%
 
-# Data Visulaization
+# Data Visualization
 Presented the insights from the analysis using appropiate charts to convey the content of the data 
 
 # Recommendations
